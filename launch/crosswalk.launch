@@ -12,9 +12,4 @@
     <arg name="show_kb_teleop" value="false" />
   </include>
 
-  <!-- Steering -->
-  <node name="rqt_robot_steering" pkg="rqt_robot_steering" type="rqt_robot_steering">
-    <param name="default_topic" value="/cmd_vel" />
-  </node>
-
 </launch>
