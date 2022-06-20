@@ -1,5 +1,5 @@
-# `simple_sim_crosswalk`
+# `simple_sim_h_course`
 
 A simulation enviornment for `simple_sim`
 
-![Map Screenshot](docs/map_screenshot.png)
+![Map Screenshot](docs/LotHtestCourseInfo.png)
