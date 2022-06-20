@@ -2,4 +2,4 @@
 
 A simulation enviornment for `simple_sim`
 
-![Map Screenshot](docs/LotHtestCourseInfo.png)
+![Map Screenshot](docs/LotHtestCourseInfo.jpg)
