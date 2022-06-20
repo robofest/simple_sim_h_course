@@ -1,5 +1,5 @@
 # `simple_sim_h_course`
 
-A simulation enviornment for `simple_sim`
-
+`simple_sim` simulation enviornment for Lot H Test Course
+<img src="docs/LotHtestCourseInfo.jpg" style="width:100px;"/>
 ![Map Screenshot](docs/LotHtestCourseInfo.jpg)
