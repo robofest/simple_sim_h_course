@@ -2,7 +2,12 @@
 
   <!-- Load map -->
   <param name="map_dir" value="$(find simple_sim_h_course)/map" />
-  <rosparam command="load" file="$(find simple_sim_h_course)/map/h_course.yaml" />
+  <rosparam command="load" file="$(find simple_sim_h_course)/map/h2_course.yaml" /> 
+                                               <!-- yaml file has many rosparams -->
+  <param name="Theta_init" value="180.0" />
+  <param name="Xr_init" value="-1.03"      />
+  <param name="Yr_init" value="-1.77"    />
+
 
   <!-- Load robot -->
   <rosparam command="load" file="$(find simple_sim_h_course)/robot/ackermann.yaml" />
